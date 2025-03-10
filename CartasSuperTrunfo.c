@@ -2,7 +2,7 @@
 
   int main(){
   printf("desafio trunfo! /n");
-
+  printf("novo commit/n");
   char estado [19] = "maranhao";
   char numero = 100;
   char cidade = "são luiz"; 
